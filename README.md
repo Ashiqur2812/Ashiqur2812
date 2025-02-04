@@ -60,9 +60,9 @@ I laugh at my own code comments and occasionally debate **tabs vs. spaces** (spo
 
 ### 🎉 **Final Thoughts**  
 Thanks for stopping by! If you’re looking for someone who can:  
-- Turn your ideas into reality.  
-- Debug like a pro.  
-- Crack a joke about semicolons.  
+ Turn your ideas into reality.  
+ Debug like a pro.  
+ Crack a joke about semicolons.  
 
 **Let’s build something amazing together!** 🚀🔥  
 
