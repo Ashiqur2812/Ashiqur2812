@@ -1,20 +1,25 @@
 <div align="center">
 
-# 🚀 **Muhammad Ashiqur Rahman**  
-**Frontend Developer | Clean Code Advocate | React.js Enthusiast**  
+<!-- Animated Typing Text -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=61DAFB&center=true&vCenter=true&width=600&lines=🚀+Muhammad+Ashiqur+Rahman;💻+Frontend+Developer;🔧+Clean+Code+Advocate;🎨+React.js+Enthusiast" alt="Typing Animation" />
+</h1>
+
+---
+
+<!-- Animated Profile Photo -->
+<img src="https://via.placeholder.com/150" alt="Your Photo" width="150" style="border-radius: 50%; border: 4px solid #61DAFB; animation: float 3s ease-in-out infinite;" />
 
 ---
 
 ### 👋 **About Me**  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="border-radius: 50%; border: 4px solid #61DAFB;"/>  
-
 💡 **Code like a poet, debug like a detective.**  
 Hey there! I'm **Muhammad Ashiqur Rahman**, a passionate **Frontend Developer** with expertise in **React.js**, **JavaScript**, and the **MERN stack**. I specialize in crafting seamless, user-friendly, and scalable web applications that solve real-world problems.  
 
 When I’m not coding, you’ll find me:  
- 🎯 Advocating for clean, maintainable code.  
- 🔥 Experimenting with **Next.js** and exploring new tech trends.  
- 🐞 Fixing bugs (and occasionally laughing at my own code comments).  
+- 🎯 Advocating for clean, maintainable code.  
+- 🔥 Experimenting with **Next.js** and exploring new tech trends.  
+- 🐞 Fixing bugs (and occasionally laughing at my own code comments).  
 
 ---
 
@@ -58,12 +63,38 @@ I laugh at my own code comments and occasionally debate **tabs vs. spaces** (spo
 
 ---
 
+### 🚀 **Featured Projects**  
+<!-- Project 1 -->
+<div align="left">
+  <h3>🌍 Tourism Website</h3>
+  <p>A responsive tourism website built with <strong>React.js</strong> and <strong>Firebase</strong>.</p>
+  <a href="https://github.com/yourusername/tourism-website">View Project</a> | <a href="https://tourism-website.com">Live Demo</a>
+</div>
+
+<!-- Project 2 -->
+<div align="left">
+  <h3>🛒 E-Commerce Platform</h3>
+  <p>A full-stack e-commerce platform using the <strong>MERN stack</strong>.</p>
+  <a href="https://github.com/yourusername/e-commerce">View Project</a> | <a href="https://e-commerce.com">Live Demo</a>
+</div>
+
+---
+
 ### 🎉 **Final Thoughts**  
 Thanks for stopping by! If you’re looking for someone who can:  
- Turn your ideas into reality.  
- Debug like a pro.  
- Crack a joke about semicolons.  
+- Turn your ideas into reality.  
+- Debug like a pro.  
+- Crack a joke about semicolons.  
 
 **Let’s build something amazing together!** 🚀🔥  
 
 </div>
+
+<!-- Floating Animation CSS -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+  }
+</style>
