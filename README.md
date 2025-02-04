@@ -17,9 +17,9 @@
 Hey there! I'm **Muhammad Ashiqur Rahman**, a passionate **Frontend Developer** with expertise in **React.js**, **JavaScript**, and the **MERN stack**. I specialize in crafting seamless, user-friendly, and scalable web applications that solve real-world problems.  
 
 When I’m not coding, you’ll find me:  
-- 🎯 Advocating for clean, maintainable code.  
-- 🔥 Experimenting with **Next.js** and exploring new tech trends.  
-- 🐞 Fixing bugs (and occasionally laughing at my own code comments).  
+ 🎯 Advocating for clean, maintainable code.  
+ 🔥 Experimenting with **Next.js** and exploring new tech trends.  
+ 🐞 Fixing bugs (and occasionally laughing at my own code comments).  
 
 ---
 
@@ -64,27 +64,27 @@ I laugh at my own code comments and occasionally debate **tabs vs. spaces** (spo
 ---
 
 ### 🚀 **Featured Projects**  
-<!-- Project 1 -->
+<!-- Project 1: Restaurant Website -->
 <div align="left">
-  <h3>🌍 Tourism Website</h3>
-  <p>A responsive tourism website built with <strong>React.js</strong> and <strong>Firebase</strong>.</p>
-  <a href="https://github.com/yourusername/tourism-website">View Project</a> | <a href="https://tourism-website.com">Live Demo</a>
+  <h3>🍽️ Restaurant Website</h3>
+  <p>A fully responsive restaurant website built with <strong>React.js</strong> and <strong>Firebase</strong>. Features include menu browsing, online reservations, and user reviews.</p>
+  <a href="https://github.com/yourusername/restaurant-website">View Project</a> | <a href="https://restaurant-website.com">Live Demo</a>
 </div>
 
-<!-- Project 2 -->
+<!-- Project 2: Real Estate Platform -->
 <div align="left">
-  <h3>🛒 E-Commerce Platform</h3>
-  <p>A full-stack e-commerce platform using the <strong>MERN stack</strong>.</p>
-  <a href="https://github.com/yourusername/e-commerce">View Project</a> | <a href="https://e-commerce.com">Live Demo</a>
+  <h3>🏠 Real Estate Platform</h3>
+  <p>A modern real estate platform built with the <strong>MERN stack</strong>. Features include property listings, advanced search filters, and user authentication.</p>
+  <a href="https://github.com/yourusername/real-estate-platform">View Project</a> | <a href="https://real-estate-platform.com">Live Demo</a>
 </div>
 
 ---
 
 ### 🎉 **Final Thoughts**  
 Thanks for stopping by! If you’re looking for someone who can:  
-- Turn your ideas into reality.  
-- Debug like a pro.  
-- Crack a joke about semicolons.  
+ Turn your ideas into reality.  
+ Debug like a pro.  
+ Crack a joke about semicolons.  
 
 **Let’s build something amazing together!** 🚀🔥  
 
