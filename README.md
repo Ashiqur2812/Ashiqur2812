@@ -80,7 +80,7 @@ Tools
 <div align="left">
   <h3>🏠 Real Estate Platform</h3>
   <p>A modern real estate platform built with the <strong>MERN stack</strong>. Features include property listings, advanced search filters, and user authentication.</p>
-  <a href="https://auth-moha-milon-76938.web.app">View Project</a> | <a href="https://real-estate-platform.com">Live Demo</a>
+  <a href="https://auth-moha-milon-76938.web.app">View Project</a> 
 </div>
 
 ---
