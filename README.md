@@ -4,6 +4,10 @@
 ---
 
 ### 👋 About Me  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" style="border-radius: 50%;"/>  
+</div>
+
 💡 **Code like a poet, debug like a detective.**  
 Hey there! I'm **Muhammad Ashiqur Rahman**, a passionate **Frontend Developer** with expertise in **React.js**, **JavaScript**, and the **MERN stack**. I specialize in crafting seamless, user-friendly, and scalable web applications that solve real-world problems.  
 
