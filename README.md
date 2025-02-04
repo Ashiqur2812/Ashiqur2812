@@ -8,7 +8,7 @@
 ---
 
 <!-- Animated Profile Photo -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" style="border-radius: 50%; border: 4px solid #61DAFB; animation: float 3s ease-in-out infinite;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" style="border-radius: 50%; border: 4px solid #61DAFB; animation: float 3s ease-in-out infinite;" />
 
 ---
 
