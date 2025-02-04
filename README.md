@@ -12,9 +12,9 @@
 Hey there! I'm **Muhammad Ashiqur Rahman**, a passionate **Frontend Developer** with expertise in **React.js**, **JavaScript**, and the **MERN stack**. I specialize in crafting seamless, user-friendly, and scalable web applications that solve real-world problems.  
 
 When I’m not coding, you’ll find me:  
-- 🎯 Advocating for clean, maintainable code.  
-- 🔥 Experimenting with **Next.js** and exploring new tech trends.  
-- 🐞 Fixing bugs (and occasionally laughing at my own code comments).  
+ 🎯 Advocating for clean, maintainable code.  
+ 🔥 Experimenting with **Next.js** and exploring new tech trends.  
+ 🐞 Fixing bugs (and occasionally laughing at my own code comments).  
 
 ---
 
