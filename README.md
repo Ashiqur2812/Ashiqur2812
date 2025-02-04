@@ -14,7 +14,7 @@
 
 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ashiqur2812&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies"> </p>
-📌 About Me
+<h3>📌 About Me</h3>
 🚀 Frontend Developer skilled in React.js, JavaScript, and the MERN stack.
 🌱 Currently exploring Next.js and new web technologies.
 🛠️ I love clean code, UI/UX design, and making web apps more interactive.
