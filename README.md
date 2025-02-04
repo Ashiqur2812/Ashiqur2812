@@ -1,5 +1,5 @@
-🚀 Muhammad Ashiqur Rahman
-Frontend Developer | JavaScript Enthusiast 
+#🚀 Muhammad Ashiqur Rahman
+##Frontend Developer | JavaScript Enthusiast 
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation"> </p>
 💡 Code like a poet, debug like a detective.
