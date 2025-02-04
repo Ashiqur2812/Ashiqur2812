@@ -1,4 +1,4 @@
-<h2>🚀 Muhammad Ashiqur Rahman</h2>h2>
+<h2>🚀 Muhammad Ashiqur Rahman</h2>
 <h2>Frontend Developer | JavaScript Enthusiast </h2>
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation"> </p>
