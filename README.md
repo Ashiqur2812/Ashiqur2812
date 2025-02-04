@@ -15,7 +15,7 @@
 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ashiqur2812&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies"> </p>
 <h3>📌 About Me</h3>
-<ul>
+<ul type='none'>
   <li>🚀 Frontend Developer skilled in React.js, JavaScript, and the MERN stack.</li>
   <li>🌱 Currently exploring Next.js and new web technologies.</li>
   <li>🛠️ I love clean code, UI/UX design, and making web apps more interactive.</li>
@@ -23,8 +23,7 @@
   <li>✉️ Reach me at ashiqur2812@gmail.com.</li>
   <li>🛠️ I love clean code, UI/UX design, and making web apps more interactive.</li>
   <li>⚡ Fun Fact: I believe tabs > spaces and I sometimes debug with console.log(“Works here, not there?”) 🤣.</li>
-  <li>🛠️ Tech Stack & Tools</li>
-  
+  <li>🛠️ Tech Stack & Tools</li> 
 </ul>
 
 
