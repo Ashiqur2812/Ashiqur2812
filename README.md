@@ -1,7 +1,7 @@
 <h2>🚀 Muhammad Ashiqur Rahman</h2>
 <h2>Frontend Developer | JavaScript Enthusiast </h2>
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation"> </p>
+<h3 align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation"> </h3>
 💡 Code like a poet, debug like a detective.
 Hey there! 👋 I'm Muhammad Ashiqur Rahman, a Frontend Developer with a knack for turning caffeine into clean code and ideas into pixel-perfect realities. I specialize in React.js, JavaScript, and the MERN stack, crafting seamless, user-friendly, and scalable web applications.
 
