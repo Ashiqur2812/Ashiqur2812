@@ -21,7 +21,7 @@ When I’m not coding, you’ll find me laughing at my own code comments, debati
 🌐 Let’s Connect!
 Stalk me professionally:
 
-<p align="left"> <a href="https://twitter.com/ashiqur2812" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://fb.com/muhammad.ashiqur.rahman" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> <a href="mailto:ashiqur2812@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
+<p align="left"> <a href="https://twitter.com/ashiqur2812" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://www.facebook.com/profile.php?id=61556793443087" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> <a href="mailto:ashiqur2812@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 🛠 My Superpowers (Tech Stack & Tools)
 ⚙️ Skills include: Writing code, breaking code, fixing code, and pretending it was never broken.
 
