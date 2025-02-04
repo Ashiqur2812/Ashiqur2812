@@ -5,7 +5,7 @@
 
 ### 👋 About Me  
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" style="border-radius: 50%;"/>  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation">
 </div>
 
 💡 **Code like a poet, debug like a detective.**  
