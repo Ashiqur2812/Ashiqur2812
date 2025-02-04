@@ -1,3 +1,4 @@
+<img align="center" height="600" width="full" src="https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/468172287_122190651668226448_8021544190362809453_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=nShoYXOuViwQ7kNvgFikrlh&_nc_zt=23&_nc_ht=scontent.fjsr13-1.fna&_nc_gid=AJv1KlE4qUK4M697waU9yYK&oh=00_AYCn6L4XdB7lJ-PeZnSUIaCe8y1If3KIoK4mx4W1K2yNbQ&oe=67A83376"/>
 <h1 align="center">Hi 👋, I'm Muhammad Ashiqur Rahman</h1>
 <h3 align="center">I am a passionate Frontend Developer with expertise in React.js and JavaScript. I love building user-friendly web applications and solving real-world problems through code.</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqur2812&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqur2812" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ashiqur2812" target="blank"><img src="https://img.shields.io/twitter/follow/@ashiqur2812?logo=twitter&style=for-the-badge" alt="@ashiqur2812" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ashiqur2812" target="blank"><img src="https://img.shields.io/twitter/follow/@ashiqur2812?logo=twitter&style=for-the-badge" alt="ashiqur2812" /></a> </p>
 
 - 🌱 I’m currently learning **next.js**
 
