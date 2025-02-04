@@ -8,7 +8,7 @@
 ---
 
 <!-- Animated Profile Photo -->
-<img src="https://via.placeholder.com/150" alt="Your Photo" width="150" style="border-radius: 50%; border: 4px solid #61DAFB; animation: float 3s ease-in-out infinite;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="border-radius: 50%; border: 4px solid #61DAFB; animation: float 3s ease-in-out infinite;" />
 
 ---
 
@@ -17,9 +17,9 @@
 Hey there! I'm **Muhammad Ashiqur Rahman**, a passionate **Frontend Developer** with expertise in **React.js**, **JavaScript**, and the **MERN stack**. I specialize in crafting seamless, user-friendly, and scalable web applications that solve real-world problems.  
 
 When I’m not coding, you’ll find me:  
-- 🎯 Advocating for clean, maintainable code.  
-- 🔥 Experimenting with **Next.js** and exploring new tech trends.  
-- 🐞 Fixing bugs (and occasionally laughing at my own code comments).  
+ 🎯 Advocating for clean, maintainable code.  
+ 🔥 Experimenting with **Next.js** and exploring new tech trends.  
+ 🐞 Fixing bugs (and occasionally laughing at my own code comments).  
 
 ---
 
@@ -82,9 +82,9 @@ I laugh at my own code comments and occasionally debate **tabs vs. spaces** (spo
 
 ### 🎉 **Final Thoughts**  
 Thanks for stopping by! If you’re looking for someone who can:  
-- Turn your ideas into reality.  
-- Debug like a pro.  
-- Crack a joke about semicolons.  
+ Turn your ideas into reality.  
+ Debug like a pro.  
+ Crack a joke about semicolons.  
 
 **Let’s build something amazing together!** 🚀🔥  
 
