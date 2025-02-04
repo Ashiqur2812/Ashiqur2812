@@ -1,23 +1,27 @@
 🚀 Muhammad Ashiqur Rahman
-Frontend Developer | JavaScript Wizard | Bug Exterminator
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation"> </p>
-💡 Code like a poet, debug like a detective!
+Frontend Developer | JavaScript Enthusiast
 
-Hey there! 👋 I'm Muhammad Ashiqur Rahman, a passionate Frontend Developer who loves turning coffee into code and ideas into reality. I specialize in React.js, JavaScript, and the MERN stack, crafting smooth, user-friendly, and scalable web applications.
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animation"> </p>
+💡 Code like a poet, debug like a detective.
+Hey there! 👋 I'm Muhammad Ashiqur Rahman, a Frontend Developer with a knack for turning caffeine into clean code and ideas into pixel-perfect realities. I specialize in React.js, JavaScript, and the MERN stack, crafting seamless, user-friendly, and scalable web applications.
 
 🤔 Who Am I?
-🎯 Writing clean, scalable code (or at least trying to).
-🔥 React.js addict, sometimes seen experimenting with Next.js.
-🐞 A bug whisperer—I fix ‘em, but they always find a way back.
-💬 Ask me about MERN Stack, JavaScript, and why semicolons are overrated.
-📧 Reach out at ashiqur2812@gmail.com (Spam folder not included).
-⚡ Fun fact: I laugh at my own code comments.
-🌐 Connect with Me
-Stalk me professionally (or just say hi!)
+🎯 Clean Code Advocate: Writing scalable, maintainable code (and occasionally Googling "why is this not working?").
 
-<p align="left"> <a href="https://twitter.com/ashiqur2812" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://fb.com/muhammad.ashiqur.rahman" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> </p>
+🔥 React.js Enthusiast: Building dynamic UIs by day, experimenting with Next.js by night.
+
+🐞 Bug Whisperer: I fix bugs, but they always come back for a reunion.
+
+💬 Ask Me About: MERN Stack, JavaScript, and why semicolons are optional (but tabs vs. spaces is a hill I’ll die on).
+
+⚡ Fun Fact: I laugh at my own code comments. 
+
+🌐 Let’s Connect!
+Stalk me professionally 
+
+<p align="left"> <a href="https://twitter.com/ashiqur2812" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://fb.com/muhammad.ashiqur.rahman" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> <a href="mailto:ashiqur2812@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 🛠 My Superpowers (Tech Stack & Tools)
-⚙️ Skills include: writing code, breaking code, fixing code, and pretending it was never broken.
+⚙️ Skills include: Writing code, breaking code, fixing code, and pretending it was never broken.
 
 <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> </p>
 📊 GitHub Stats – Because Numbers Look Cool
