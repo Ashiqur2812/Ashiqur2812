@@ -83,7 +83,7 @@ Tools
 
 ---
 
-☕ Support Me
+<h3>☕ Support Me</h3>
 Love my work? Consider buying me a coffee! ☕
 
 🎉 Final Thoughts
