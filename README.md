@@ -36,5 +36,5 @@ Thanks for stopping by! If you made it this far, you either:
 
 Either way, happy coding! 🚀🔥
 
-💌 Personal Touch
+<h3>💌 Personal Touch</h3>
 If you’re looking for someone who can turn your ideas into reality, debug like a pro, and occasionally crack a joke about semicolons, I’m your guy. Let’s build something amazing together!
