@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Ashiqur Rahman</h1>
 <h3 align="center">I am a passionate Frontend Developer with expertise in React.js and JavaScript. I love building user-friendly web applications and solving real-world problems through code.</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -30,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqur2812&show_icons=true&locale=en" alt="ashiqur2812" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqur2812&" alt="ashiqur2812" /></p>
-
