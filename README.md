@@ -68,17 +68,19 @@ Tools
 
 ### 🚀 **Featured Projects**  
 <!-- Project 1: Restaurant Website -->
+<!--
 <div align="left">
   <h3>🍽️ Restaurant Website</h3>
   <p>A fully responsive restaurant website built with <strong>React.js</strong> and <strong>Firebase</strong>. Features include menu browsing, online reservations, and user reviews.</p>
   <a href="https://github.com/yourusername/restaurant-website">View Project</a> | <a href="https://restaurant-website.com">Live Demo</a>
 </div>
+-->
 
 <!-- Project 2: Real Estate Platform -->
 <div align="left">
   <h3>🏠 Real Estate Platform</h3>
   <p>A modern real estate platform built with the <strong>MERN stack</strong>. Features include property listings, advanced search filters, and user authentication.</p>
-  <a href="https://github.com/yourusername/real-estate-platform">View Project</a> | <a href="https://real-estate-platform.com">Live Demo</a>
+  <a href="https://auth-moha-milon-76938.web.app">View Project</a> | <a href="https://real-estate-platform.com">Live Demo</a>
 </div>
 
 ---
