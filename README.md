@@ -35,7 +35,10 @@
 ## 🛠️ Tech Stack & Tools  
 
 ### **Frontend**  
-<table> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.gif" width="60" /></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.gif" width="60" /></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.gif" width="60" /></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.gif" width="60" /></td> </tr> <tr> <td>React</td> <td>JavaScript</td> <td>HTML5</td> <td>CSS3</td> </tr> </table>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=61DAFB)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=white)  
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&color=white)  
