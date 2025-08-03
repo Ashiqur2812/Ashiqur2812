@@ -26,7 +26,6 @@
   <li>🛠️ I love clean code, UI/UX design, and making web apps more interactive.</li>
   <li>🎯 Passionate about problem-solving, debugging, and scalability.</li>
   <li>✉️ Reach me at: **ashiqur2812@gmail.com**</li>
-  <li>📞 Contact: **01648800705**</li>
   <li>⚡ Fun Fact: I believe tabs > spaces and I sometimes debug with `console.log(“Works here, not there?”) 🤣`.</li>
 </ul>
 
