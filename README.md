@@ -58,7 +58,7 @@
   <br>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqur2812&layout=compact&theme=radical" alt="Top Languages">  
   <br>  
-  <img src="https://img.shields.io/badge/GitHub-Streak-red?logo=github" alt="GitHub Streak">  
+  <img src="https://github-readme-stats.vercel.app/api?username=ashiqur2812&show_icons=true&theme=radical" alt="GitHub Streak">  
 </p>
 
 ---
