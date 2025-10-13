@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Text -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=61DAFB&center=true&vCenter=true&width=600&lines=🚀+Muhammad+Ashiqur+Rahman;💻+MERN+Stack+Developer;🔧+Clean+Code+Advocate;🎨+React.js+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=61DAFB&center=true&vCenter=true&width=600&lines=🚀+Muhammad+Ashiqur+Rahman;💻+MERN+Stack+Developer;🔧+Clean+Code+Advocate;⚛️+React.js;🌐+Node.js;📦+Express.js;🍃+MongoDB" alt="Typing Animation" alt="Typing Animation" />
 </h1>
 
 ---
